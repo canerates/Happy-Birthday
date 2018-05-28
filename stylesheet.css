@@ -1102,21 +1102,6 @@ audio {
 #b3,#b33 {
 	background-image: url('b3.png');
 }
-#b4,#b44{
-	background-image: url('b4.png');
-}
-#b5,#b55{
-	background-image: url('b5.png');
-}
-#b6,#b66{
-	background-image: url('b6.png');
-}
-#b7,#b77{
-	background-image: url('b7.png');
-}
-#b8,#b88{
-	background-image: url('b8.png');
-}
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
 	-webkit-transform: rotate(30deg);
